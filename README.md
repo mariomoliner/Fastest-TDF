@@ -45,7 +45,7 @@ Finally we can plot the mean VAM of each tdf edition. That is a very good estima
 
 ![images](./img/meanVAM.PNG)
 
-## Making up the soap
+## Putting all the ingredients together
 
 We are going to define the the difficulty of a tour the france as a linear combination of the before mentioned metrics.
 
